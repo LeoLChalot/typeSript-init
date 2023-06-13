@@ -1,0 +1,1 @@
+{"version":3,"file":"main.bundle.js","mappings":";;;;;AAAA;AACA","sources":["webpack://dima/./src/index.ts"],"sourcesContent":["const test = \"123\";\nconsole.log(test);\n"],"names":[],"sourceRoot":""}
